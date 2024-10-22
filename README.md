@@ -40,4 +40,4 @@ The goal of this project is to develop an effective digit recognition model usin
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/username/HandwritingRecognitonProject.git
-   cd DigitRecognitionProject
+   cd HandwritingRecognitonProject
